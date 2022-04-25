@@ -1,8 +1,6 @@
 # DigitalVillage
 数字乡村
 
-👉 http://console.xmml.club
-
 # 编译
 ```shell
     git clone https://github.com/Anderyly/DigitalVillage.git DigitalVillage
